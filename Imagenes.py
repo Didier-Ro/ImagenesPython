@@ -40,5 +40,6 @@ cv2.imshow("PezGaussian", img_pez_gausssian)
 cv2.imshow("ChapalaLaplacian", img_chapala_laplacian)
 cv2.imshow("ChuckyLaplacian", img_chucky_laplacian)
 cv2.imshow("PalomaLaplacian", img_paloma_laplacian)
+cv2.imshow("SerpienteLaplacian", img_serpiente_laplacian)
 cv2.imshow("SerpienteCanny", serpiente8b)
 cv2.waitKey(0);
